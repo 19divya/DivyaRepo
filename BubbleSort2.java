@@ -8,6 +8,10 @@ public class BubbleSort {
 			Scanner sc = new Scanner(System.in);
 			System.out.println("Hi, This is Divya");
 			System.out.print("Enter number of elements: ");
+
+			System.out.print("Enter number of number of Rutuja elements: ");
+  
+      System.out.println("Hi, this is moksha");
 			int n = sc.nextInt();
 			
 			int[] arr = new int[n];
